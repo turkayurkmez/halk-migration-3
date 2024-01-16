@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+namespace WhatsNewInCsharp.Services;
 
-namespace WhatsNewInCsharp.Services
+internal class OrderService
 {
-    internal class OrderService
-    {
-    }
 }
+

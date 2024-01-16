@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsNewInASPNetSix", "WhatsNewInASPNetSix\WhatsNewInASPNetSix.csproj", "{98D05E89-2994-420B-AEE8-9A97AE0AC13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D05E89-2994-420B-AEE8-9A97AE0AC13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D05E89-2994-420B-AEE8-9A97AE0AC13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D05E89-2994-420B-AEE8-9A97AE0AC13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D05E89-2994-420B-AEE8-9A97AE0AC13F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A09C47-4D10-42CE-9E41-A7D03446CFAA}
+	EndGlobalSection
+EndGlobal
