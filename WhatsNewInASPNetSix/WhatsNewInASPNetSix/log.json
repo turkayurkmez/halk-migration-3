@@ -1,0 +1,59 @@
+{
+  "EventId": 0,
+  "LogLevel": "Information",
+  "Category": "WhatsNewInASPNetSix",
+  "Message": " D\u0130KKAT!! Ortam de\u011Feri: Buras\u0131 product ",
+  "State": {
+    "Message": " D\u0130KKAT!! Ortam de\u011Feri: Buras\u0131 product ",
+    "{OriginalFormat}": " D\u0130KKAT!! Ortam de\u011Feri: Buras\u0131 product "
+  }
+}, {
+  "EventId": 14,
+  "LogLevel": "Information",
+  "Category": "Microsoft.Hosting.Lifetime",
+  "Message": "Now listening on: https://localhost:7189",
+  "State": {
+    "Message": "Now listening on: https://localhost:7189",
+    "address": "https://localhost:7189",
+    "{OriginalFormat}": "Now listening on: {address}"
+  }
+}, {
+  "EventId": 14,
+  "LogLevel": "Information",
+  "Category": "Microsoft.Hosting.Lifetime",
+  "Message": "Now listening on: http://localhost:5024",
+  "State": {
+    "Message": "Now listening on: http://localhost:5024",
+    "address": "http://localhost:5024",
+    "{OriginalFormat}": "Now listening on: {address}"
+  }
+} {
+  "EventId": 0,
+  "LogLevel": "Information",
+  "Category": "Microsoft.Hosting.Lifetime",
+  "Message": "Application started. Press Ctrl\u002BC to shut down.",
+  "State": {
+    "Message": "Application started. Press Ctrl\u002BC to shut down.",
+    "{OriginalFormat}": "Application started. Press Ctrl\u002BC to shut down."
+  }
+} {
+  "EventId": 0,
+  "LogLevel": "Information",
+  "Category": "Microsoft.Hosting.Lifetime",
+  "Message": "Hosting environment: Production",
+  "State": {
+    "Message": "Hosting environment: Production",
+    "envName": "Production",
+    "{OriginalFormat}": "Hosting environment: {envName}"
+  }
+} {
+  "EventId": 0,
+  "LogLevel": "Information",
+  "Category": "Microsoft.Hosting.Lifetime",
+  "Message": "Content root path: C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 3\\WhatsNewInASPNetSix\\WhatsNewInASPNetSix\\",
+  "State": {
+    "Message": "Content root path: C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 3\\WhatsNewInASPNetSix\\WhatsNewInASPNetSix\\",
+    "contentRoot": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\MigrateFromTwoVersions\\Group 3\\WhatsNewInASPNetSix\\WhatsNewInASPNetSix\\",
+    "{OriginalFormat}": "Content root path: {contentRoot}"
+  }
+}

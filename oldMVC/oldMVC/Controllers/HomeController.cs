@@ -1,25 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using oldMVC.Models;
+using System;
+using System.Collections.Generic;
 using System.Diagnostics;
-using WhatsNewInASPNetSix.Models;
-using WhatsNewInASPNetSix.Services;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace WhatsNewInASPNetSix.Controllers
+namespace oldMVC.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IProductService productService;
 
-        public HomeController(ILogger<HomeController> logger, IProductService productService)
+        public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
-            this.productService = productService;
         }
 
         public IActionResult Index()
         {
-            var products = productService.GetProductNames();
-            return View(products);
+            return View();
         }
 
         public IActionResult Privacy()
